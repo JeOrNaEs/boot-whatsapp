@@ -1,0 +1,118 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573138991782@s.whatsapp.net',
+    fromMe: false,
+    id: '3B2DC10FA970B5E3AB51CD949B0F32CB',
+    participant: undefined
+  },
+  messageTimestamp: 1697408000,
+  pushName: 'Judy',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573138991782'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f790dae2-3379-4049-a760-0e9de1a84988',
+  keyword: 'key_517f2b91-793e-4897-b41a-0418d7c00517',
+  answer: 'Bienvenidos a mi bot automatizado! 🚀\n' +
+    'Desarrollado para contestar preguntas frecuentes\n' +
+    'Te gustaria esta información ¿?\n' +
+    'Escribe *Información basica*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '22bf4c73bf933caf7e63ee7fa82814bc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573138991782@s.whatsapp.net',
+    fromMe: false,
+    id: '84CD5CED84A5FDA22CD61F48A79030CB',
+    participant: undefined
+  },
+  messageTimestamp: 1697408005,
+  pushName: 'Judy',
+  broadcast: false,
+  message: Message {
+    conversation: 'Información basica',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Información basica',
+  from: '573138991782'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d9415e2d-50d3-45c5-97ee-5983b56441a1',
+  keyword: 'key_ea72810c-5a18-4b76-97b2-1324374580fb',
+  answer: 'Mi informacón personal es:\n' +
+    'Nombres: Jerson Orlando\n' +
+    'Apellidos: Navarrete Espinosa\n' +
+    'Telefono: 3138331682\n' +
+    'Dirección: Calle 142 a # 139 - 36',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f92f90169513dda8eadc2eb2f179ec20'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e945695d-1369-47b3-a9c6-178e34351b40',
+  keyword: 'ans_d9415e2d-50d3-45c5-97ee-5983b56441a1',
+  answer: 'Quieres saber algo de .Net?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'de7a2cc47c9f290bd1d940c8100184bf'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573138991782@s.whatsapp.net',
+    fromMe: false,
+    id: 'D78DCCE0C5BDE4BDE3B566C4C49E5DDB',
+    participant: undefined
+  },
+  messageTimestamp: 1697408014,
+  pushName: 'Judy',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es?',
+  from: '573138991782'
+}
